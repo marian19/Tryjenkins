@@ -210,6 +210,7 @@
 				TargetAttributes = {
 					56BA5E461CF32B6E00EE4466 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = ER5UCCR296;
 					};
 					56BA5E621CF32B6E00EE4466 = {
 						CreatedOnToolsVersion = 7.3;
@@ -419,7 +420,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: mariansamy91@gmail.com (QGPPWZZ57K)";
 				INFOPLIST_FILE = TryJenkins/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = marian.TryJenkins;
@@ -431,7 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = TryJenkins/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = marian.TryJenkins;
@@ -504,6 +505,7 @@
 				56BA5E791CF32B6E00EE4466 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		56BA5E7A1CF32B6E00EE4466 /* Build configuration list for PBXNativeTarget "TryJenkinsTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +514,7 @@
 				56BA5E7C1CF32B6E00EE4466 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		56BA5E7D1CF32B6E00EE4466 /* Build configuration list for PBXNativeTarget "TryJenkinsUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +523,7 @@
 				56BA5E7F1CF32B6E00EE4466 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
